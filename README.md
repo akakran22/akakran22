@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Aryan Kakran</h1>
-<h3 align="center">AI/ML Engineer | Generative AI | NLP | Computer Vision</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Generative AI | NLP | Computer Vision</h3>
 
 <p align="center">
   <a href="mailto:rnkakran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -34,15 +34,6 @@
 | ⚖️ [Legal Document Assistant](https://legal-document-assistant-h6ql.onrender.com) | RAG-based legal chatbot with section-wise citations for **Indian Laws** | LangChain, Sentence Transformers |
 | 📑 [AI Research Assistant](https://ai-research-assistant-pro.onrender.com) | Multi-agent research assistant that generates **structured professional reports** | Streamlit, LangChain, LLaMA-3.3 |
 | 📂 [Resume Classification System](https://github.com/akakran22/Resume-Classification-System-Using-Machine-Learning) | ML model classifying resumes into job categories using **MiniLM embeddings + ML models** | XGBoost, RF, LR |
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akakran22&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akakran22&theme=radical" height="180" />
-</p>
 
 ---
 
