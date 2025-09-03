@@ -33,7 +33,7 @@
 | 🩺 [Medical ChatBot](https://medical-chat-bot-mm65.onrender.com) | AI chatbot for answering health-related queries using **LLaMA-3 + FAISS + Flask** | LangChain, HuggingFace |
 | ⚖️ [Legal Document Assistant](https://legal-document-assistant-h6ql.onrender.com) | RAG-based legal chatbot with section-wise citations for **Indian Laws** | LangChain, Sentence Transformers |
 | 📑 [AI Research Assistant](https://ai-research-assistant-pro.onrender.com) | Multi-agent research assistant that generates **structured professional reports** | Streamlit, LangChain, LLaMA-3.3 |
-| 📂 [Resume Classification System](https://github.com/akakran22/Resume-Classification-System-Using-Machine-Learning) | ML model classifying resumes into job categories using **MiniLM embeddings + ML models** | XGBoost, RF, LR |
+| 📂 [Resume Classification     System](https://github.com/akakran22/Resume-Classification-System-Using-Machine-Learning) | ML model classifying resumes into job categories using **MiniLM embeddings + ML models** | XGBoost, RF, LR |
 
 ---
 
