@@ -11,10 +11,10 @@
 ---
 
 ## 🚀 About Me  
-🔹 Passionate about **AI, Machine Learning, and Generative AI**  
+🔹 Passionate about **AI, Python, Machine Learning, and Generative AI**  
 🔹 Experienced in **building intelligent chatbots, RAG systems, and ML pipelines**  
-🔹 Strong foundation in **Python, Flask, PyTorch, LangChain, HuggingFace**  
-🔹 Love solving problems with **Computer Vision, NLP, and Data Science**  
+🔹 Strong foundation in **Python, Flask, FastAPI, PyTorch, LangChain, HuggingFace**  
+🔹 Love solving problems with **Machine Learning, NLP, and Data Science**  
 
 ---
 
