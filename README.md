@@ -26,7 +26,7 @@
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured Projects with deployed links
 
 | Project | Description | Tech |
 |---------|-------------|------|
