@@ -31,6 +31,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🩺 [Medical ChatBot Pro](https://medical-chatbot-pro.onrender.com/) | AI chatbot for answering health-related queries using **LLaMA-3 + Qdrant + Flask** | Flask, LangChain, Cohere, Qdrant, Groq |
+| 🤖 [AI vs Human Text Classification](https://ai-vs-human-qqla.onrender.com/) | Web app that classifies whether a given text is written by AI or a human using **Flask + LGBM + Logistic Regression** | Flask, Scikit-learn, LIME, Render |
 | 🩺 [Medical ChatBot](https://medical-chat-bot-mm65.onrender.com) | AI chatbot for answering health-related queries using **LLaMA-3 + FAISS + Flask** | Flask, LangChain, Sentence Transformers, FAISS, Groq |
 | ⚖️ [Legal Document Assistant](https://legal-doc-assistant.onrender.com/) | RAG-based legal chatbot with section-wise citations for **Indian Laws** | Flask, LangChain, HuggingFace, Qdrant, Groq |
 | 📑 [AI Research Assistant](https://ai-research-assistant-pro.onrender.com) | Multi-agent research assistant that generates **structured professional reports** | FastAPI, LangChain, LLaMA-3.3, Groq |
